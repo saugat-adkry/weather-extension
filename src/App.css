@@ -7,5 +7,9 @@
     min-height: 15rem;
     max-width: 15rem;
     max-height: 15rem;
-    @apply bg-gray-300 p-4 text-center
+    @apply bg-gray-300 p-4 text-center grid grid-rows-2
+}
+
+.btn {
+    @apply font-bold text-xl text-white px-4 py-2 rounded mt-8
 }
