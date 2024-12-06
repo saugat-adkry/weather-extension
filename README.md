@@ -1,6 +1,6 @@
 # Getting Started with React Chrome Extension
 
-you can customize it as much as you like but make sure the size of the extension isn't to large. Currently i'ts set to 15remx15rem in the App.css
+you can customize it as much as you like but make sure the size of the extension isn't to large. Currently i'ts set to 20remx15rem in the App.css
 
 ## Add this as a chrome extension
 1) run: npm run build ( which creates a new folder called "dist" ).
