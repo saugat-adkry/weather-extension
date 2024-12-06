@@ -4,12 +4,9 @@
 
 .container{
     min-width: 15rem;
-    min-height: 15rem;
+    min-height: 20rem;
     max-width: 15rem;
-    max-height: 15rem;
-    @apply bg-gray-300 p-4 text-center grid grid-rows-2
-}
-
-.btn {
-    @apply font-bold text-xl text-white px-4 py-2 rounded mt-8
+    max-height: 20rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    @apply rounded-lg relative ;
 }
